@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  ContriesAPI
+
+  Created by Angel Gabriel Rangel Pinero on 28/05/25.
+  
+*/
+
+"detail_caption_capital" = "Capital";
+"detail_caption_region" = "Region";
+"detail_caption_languages" = "Languages";
+"detail_caption_sub_region" = "Subregion";
+"detail_caption_languages" = "Languages";
+"detail_caption_currencies" = "Currencies";
+"detail_caption_population" = "Population";
+"detail_caption_car_driver_side" = "Card Driver Side";
+"detail_caption_coat" = "Coat of Arms";
+"detail_caption_timezone" = "Timezone(s)";
